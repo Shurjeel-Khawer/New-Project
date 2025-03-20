@@ -1,4 +1,4 @@
 # New-Project
-Let's Learn GitHub
-
-GitHub Is the most of the impotant tool 
+Just learned about GitHub
+What is GitHub?
+GitHub is a proprietary developer platform that allows developers to create, store, manage, and share their code.
